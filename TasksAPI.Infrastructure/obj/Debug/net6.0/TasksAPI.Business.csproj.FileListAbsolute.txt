@@ -1,0 +1,15 @@
+C:\Users\yazan\source\repos\TasksAPI\TasksAPI.Infrastructure\bin\Debug\net6.0\TasksAPI.Business.deps.json
+C:\Users\yazan\source\repos\TasksAPI\TasksAPI.Infrastructure\bin\Debug\net6.0\TasksAPI.Business.dll
+C:\Users\yazan\source\repos\TasksAPI\TasksAPI.Infrastructure\bin\Debug\net6.0\TasksAPI.Business.pdb
+C:\Users\yazan\source\repos\TasksAPI\TasksAPI.Infrastructure\bin\Debug\net6.0\TasksAPI.Persistence.dll
+C:\Users\yazan\source\repos\TasksAPI\TasksAPI.Infrastructure\bin\Debug\net6.0\TasksAPI.Persistence.pdb
+C:\Users\yazan\source\repos\TasksAPI\TasksAPI.Infrastructure\obj\Debug\net6.0\TasksAPI.Business.csproj.AssemblyReference.cache
+C:\Users\yazan\source\repos\TasksAPI\TasksAPI.Infrastructure\obj\Debug\net6.0\TasksAPI.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazan\source\repos\TasksAPI\TasksAPI.Infrastructure\obj\Debug\net6.0\TasksAPI.Business.AssemblyInfoInputs.cache
+C:\Users\yazan\source\repos\TasksAPI\TasksAPI.Infrastructure\obj\Debug\net6.0\TasksAPI.Business.AssemblyInfo.cs
+C:\Users\yazan\source\repos\TasksAPI\TasksAPI.Infrastructure\obj\Debug\net6.0\TasksAPI.Business.csproj.CoreCompileInputs.cache
+C:\Users\yazan\source\repos\TasksAPI\TasksAPI.Infrastructure\obj\Debug\net6.0\TasksAPI.Business.csproj.CopyComplete
+C:\Users\yazan\source\repos\TasksAPI\TasksAPI.Infrastructure\obj\Debug\net6.0\TasksAPI.Business.dll
+C:\Users\yazan\source\repos\TasksAPI\TasksAPI.Infrastructure\obj\Debug\net6.0\refint\TasksAPI.Business.dll
+C:\Users\yazan\source\repos\TasksAPI\TasksAPI.Infrastructure\obj\Debug\net6.0\TasksAPI.Business.pdb
+C:\Users\yazan\source\repos\TasksAPI\TasksAPI.Infrastructure\obj\Debug\net6.0\ref\TasksAPI.Business.dll

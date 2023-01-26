@@ -1,0 +1,14 @@
+C:\Users\yazan\source\repos\TasksAPI\TumorClassification.Domain\bin\Debug\net6.0\TasksAPI.Persistence.deps.json
+C:\Users\yazan\source\repos\TasksAPI\TumorClassification.Domain\bin\Debug\net6.0\TasksAPI.Persistence.runtimeconfig.json
+C:\Users\yazan\source\repos\TasksAPI\TumorClassification.Domain\bin\Debug\net6.0\TasksAPI.Persistence.dll
+C:\Users\yazan\source\repos\TasksAPI\TumorClassification.Domain\bin\Debug\net6.0\TasksAPI.Persistence.pdb
+C:\Users\yazan\source\repos\TasksAPI\TumorClassification.Domain\obj\Debug\net6.0\TasksAPI.Persistence.csproj.AssemblyReference.cache
+C:\Users\yazan\source\repos\TasksAPI\TumorClassification.Domain\obj\Debug\net6.0\TasksAPI.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazan\source\repos\TasksAPI\TumorClassification.Domain\obj\Debug\net6.0\TasksAPI.Persistence.AssemblyInfoInputs.cache
+C:\Users\yazan\source\repos\TasksAPI\TumorClassification.Domain\obj\Debug\net6.0\TasksAPI.Persistence.AssemblyInfo.cs
+C:\Users\yazan\source\repos\TasksAPI\TumorClassification.Domain\obj\Debug\net6.0\TasksAPI.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\yazan\source\repos\TasksAPI\TumorClassification.Domain\obj\Debug\net6.0\TasksAPI.Persistence.dll
+C:\Users\yazan\source\repos\TasksAPI\TumorClassification.Domain\obj\Debug\net6.0\refint\TasksAPI.Persistence.dll
+C:\Users\yazan\source\repos\TasksAPI\TumorClassification.Domain\obj\Debug\net6.0\TasksAPI.Persistence.pdb
+C:\Users\yazan\source\repos\TasksAPI\TumorClassification.Domain\obj\Debug\net6.0\TasksAPI.Persistence.genruntimeconfig.cache
+C:\Users\yazan\source\repos\TasksAPI\TumorClassification.Domain\obj\Debug\net6.0\ref\TasksAPI.Persistence.dll
